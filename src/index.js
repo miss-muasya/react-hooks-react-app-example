@@ -1,3 +1,4 @@
+// import { hi } from "date-fns/locale";
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
